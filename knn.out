@@ -1,0 +1,5 @@
+k: 1
+p: 0.5
+accuracy: 0.63
+sensitivity: 0.69
+specificity: 0.52
